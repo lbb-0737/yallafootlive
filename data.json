@@ -6,12 +6,12 @@
       "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe\" frameborder=\"0\" height=\"500\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" src=\"https://amg.live-koora.live/albaplayer/bein-sports-hd2/\" webkitallowfullscreen=\"\" width=\"100%\"></iframe>"
     },
     {
-      "post": 1,
-      "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe\" frameborder=\"0\" height=\"500\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" src=\"https://amg.live-koora.live/albaplayer/bein-1/\" webkitallowfullscreen=\"\" width=\"100%\"></iframe>"
-    },
-    {
       "post": 2,
       "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe\" frameborder=\"0\" height=\"500\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" src=\"https://amg.live-koora.live/albaplayer/on-time-sport/\" webkitallowfullscreen=\"\" width=\"100%\"></iframe>"
+    },
+    {
+      "post": 1,
+      "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe\" frameborder=\"0\" height=\"500\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" src=\"https://amg.live-koora.live/albaplayer/bein-1/\" webkitallowfullscreen=\"\" width=\"100%\"></iframe>"
     }
   ]
 }
