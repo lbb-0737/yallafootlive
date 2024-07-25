@@ -3,11 +3,11 @@
   "iframes": [
     {
       "post": "football-history-yalla-shoot-live.html",
-      "iframe": ""
+      "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe hqy-lazy\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" data-src=\"https://kkkk.alkoora.live/albaplayer/on-time-sport-2/\" webkitallowfullscreen=\"\" width=\"100%\" height=\"500\" frameborder=\"0\" loading=\"lazy\"></iframe>"
     },
     {
       "post": "center-circle-football-yalla-shoot-live.html",
-      "iframe": ""
+      "iframe": "<iframe allowfullscreen=\"\" class=\"video-iframe hqy-lazy\" mozallowfullscreen=\"\" name=\"search_iframe\" scrolling=\"no\" data-src=\"https://kkkk.alkoora.live/albaplayer/on-time-sport-1/\" webkitallowfullscreen=\"\" width=\"100%\" height=\"500\" frameborder=\"0\" loading=\"lazy\"></iframe>"
     }
   ]
 }
