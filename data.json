@@ -1,4 +1,9 @@
 {
-  "matchesToday": "<div class=\"match-container\"><p class=\"no-data__msg\">لا يوجد مباريات هذا اليوم</p></div>",
-  "iframes": []
+  "matchesToday": "<div class=\"match-container\">\n   <a title=\"مشاهدة مباراة فيلادلفيا يونيون و إنتر ميامي بتاريخ 2025-05-26\" href=\"https://shrinkme.ink/QlWAI\">\n      <div class=\"right-team\">\n         <div class=\"team-logo\">\n         <img alt=\"فيلادلفيا يونيون\" data-src=\"\" class=\"hqy-lazy\" height=\"70\" src=\"https://i0.wp.com/stad.yalla-shoot-tv.live/wp-content/uploads/2023/06/1618.png?ssl=1\" title=\"فيلادلفيا يونيون\" width=\"70\" loading=\"lazy\">\n         </div>\n         <div class=\"team-name\">فيلادلفيا يونيون</div>\n      </div>\n      <div class=\"match-center\">\n         <div class=\"match-timing\">\n            <div id=\"match-time\">2:30 AM</div>\n<div class=\"result\">0-0</div><div class=\"date not-start\">لم تبدأ بعد</div></div>\n      </div>\n      <div class=\"left-team\">\n         <div class=\"team-logo\">\n         <img alt=\"إنتر ميامي\" data-src=\"\" class=\"hqy-lazy\" height=\"70\" src=\"https://i0.wp.com/stad.yalla-shoot-tv.live/wp-content/uploads/2023/06/12790.png?ssl=1\" title=\"إنتر ميامي\" width=\"70\" loading=\"lazy\">\n       </div>\n         <div class=\"team-name\">إنتر ميامي</div>\n      </div>\n      <div class=\"match-info\">\n         <ul>\n            <li><span>غير معروف</span></li>\n            <li><span>غير معروف</span></li>\n            <li><span>الدوري الأمريكي</span></li>\n         </ul>\n      </div><div class=\"overlay-match\">\n         <div class=\"text-match\"></div>\n      </div></a>\n</div>",
+  "iframes": [
+    {
+      "post": "بث-مباشر-Yalla-Shoot-aldaerh-almrkzyh-fy-mlab-krh-alqdm-ahmytha-wwzaefha",
+      "iframe": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"500\" mozallowfullscreen=\"\" name=\"search_iframe\" src=\"https://ddd.alkoora.live/albaplayer/on-time-sport-1/\" webkitallowfullscreen=\"\" width=\"100%\"></iframe>"
+    }
+  ]
 }
